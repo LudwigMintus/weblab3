@@ -1,0 +1,56 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background: white;
+}
+
+body{
+    margin:0;
+    padding: 0;
+    color: #3d47ab;
+}
+
+.but{
+    margin: 25px;
+    text-align: center;
+    display:inline-block;
+}
+.hat{
+    color: #3d47ab;
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    border: 0;
+}
+.hat h6{margin: 0;}
+div {
+    width: 100%;
+}
+
+.text{
+    background: #3d47ab;
+    color: white; /* Цвет текста*/
+    padding: 0px; /* Поля вокруг текста*/
+    border-radius: 10px;
+    font-size: 27px;
+    font-family: cursive;
+    padding: 0 20px;
+
+}
+
+input{
+    background: #3d47ab; /* Цвет фона */
+    border: 0px solid black; /* Параметры рамки */
+    border-radius: 20px;
+    box-shadow: 0 0 4px 3px #fff;
+    font-size: 15px;
+}
+table{
+    color: #3d47ab;
+    padding: 2px;
+    width: 100%;
+}
+th,td{
+    font-size: 27px;
+}
